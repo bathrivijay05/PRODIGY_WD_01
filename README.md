@@ -2,7 +2,7 @@
 
 This repository consists of a responsive single-page landing page design that can be used by a Tech Startup.
 
-# Features
+## Features
 
  - Responsive Header Navigation
  - Hero section
