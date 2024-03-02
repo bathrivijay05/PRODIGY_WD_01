@@ -16,3 +16,8 @@ This repository consists of a responsive single-page landing page design that ca
 
  - Images: [Upsplash](https://unsplash.com/)
  - Icons: [Font Awesome](https://fontawesome.com/)
+
+## Demo Image
+
+![Responsive Single Page Landing Page Design for Tech Startup](https://raw.githubusercontent.com/bathrivijay05/PRODIGY_WD_01/main/screenshot.png)
+
