@@ -14,5 +14,5 @@ This repository consists of a responsive single-page landing page design that ca
 
 ## Credits
 
-Images: [Upsplash](https://unsplash.com/)
-Icons: [Font Awesome](https://fontawesome.com/)
+ - Images: [Upsplash](https://unsplash.com/)
+ - Icons: [Font Awesome](https://fontawesome.com/)
