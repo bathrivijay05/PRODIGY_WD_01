@@ -409,8 +409,7 @@ nav ul li a:visited:not(:only-child):after {
 
 div.about-container {
 	width: 100%;
-	max-width: 800px;
-	margin: 0 auto;
+	max-width: 100%;
 	padding: 45px 0;
 }
 
@@ -422,17 +421,16 @@ div.about-container div {
 
 div.about-container img {
 	position: absolute;
-	bottom: -20px;
-	left: 50px;
 	width: 240px;
+	bottom: 10%;
+  	left: 20%;
 }
 
 @media(max-width:750px) {
 
 	div.about-container div {
-		min-width: 300px;
 		width: 100%;
-		margin: 0 5%;
+		margin: 0;
 		text-align: center;
 		display: block;
 	}
@@ -442,6 +440,14 @@ div.about-container img {
 		margin: auto;
 		left: inherit;
 		bottom: inherit;
+		width: 170px;
+	}
+}
+
+@media(max-width:300px) {
+
+	div.about-container img {
+		width: 120px;
 	}
 
 }
@@ -669,6 +675,15 @@ div.about-container img {
 
 	#contact-section .form .form-details input[type="text"] {
 		margin-bottom: 0px;
+	}
+}
+
+@media(max-width: 445px) {
+	#contact-section .form .form-details input[type="text"],
+	#contact-section .form .form-details input[type="email"],
+	#contact-section .form .form-details textarea {
+		width: 70%;
+		margin-left: 0;
 	}
 }
 
