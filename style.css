@@ -283,6 +283,7 @@ section.navigation {
 	margin: 0 auto;
 	text-align: center;
 	padding: 30px;
+	padding-top: 60px;
 }
 
 .features-section a {
@@ -380,6 +381,7 @@ section.navigation {
 #about-section {
 	background: #ffffff;
 	padding: 20px 50px;
+	padding-top: 60px;
 }
 
 #about-section h3 {
@@ -463,6 +465,7 @@ div.about-container img {
 #blog-section {
 	box-sizing: border-box;
 	padding: 20px 50px;
+	padding-top: 60px;
 }
 
 #blog-section *,
@@ -548,6 +551,10 @@ div.about-container img {
 }
 
 /* Contact Section */
+
+#contact-section {
+	padding-top: 60px;
+}
 
 #contact-section>* {
 	margin: 0;
